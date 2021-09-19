@@ -10,8 +10,8 @@
 @@||yahoo.com^
 @@||gmail.com^
 
-@@||tangerine.ca^
-@@||tangerine.ca^
+@@||publicmobile.ca^
+@@||koodomobile.com^
 @@||tangerine.ca^
 @@||tangerine.ca^
 @@||tangerine.ca^
