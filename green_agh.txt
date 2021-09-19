@@ -1,5 +1,5 @@
 @@||duckdns.org^
-@@||scp2.cdn.lima-labs.com^
+@@||lima-labs.com^
 @@||ebay.ca^
 @@||ebay.com^
 @@||fido.ca^
