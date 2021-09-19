@@ -1,10 +1,8 @@
 @@||duckdns.org^
-@@||duckdns.org^
 @@||scp2.cdn.lima-labs.com^
 @@||ebay.ca^
 @@||ebay.com^
 @@||fido.ca^
-@@||rogers.ca^
 @@||rogers.com^
 @@||tangerine.ca^
 @@||discord.com^
