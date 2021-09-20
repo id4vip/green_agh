@@ -1,7 +1,6 @@
 @@||duckdns.org^
 @@||lima-labs.com^
-@@||ebay.ca^
-@@||ebay.com^
+@@||telus.ca^
 @@||fido.ca^
 @@||rogers.com^
 @@||tangerine.ca^
