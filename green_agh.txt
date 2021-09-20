@@ -1,6 +1,6 @@
 @@||duckdns.org^
 @@||lima-labs.com^
-@@||telus.ca^
+@@||telus.com^
 @@||fido.ca^
 @@||rogers.com^
 @@||tangerine.ca^
