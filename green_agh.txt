@@ -18,3 +18,9 @@
 @@||pushover.net^
 @@||cheapoair.ca^
 @@||skyscanner.ca^
+
+@@||telus.com^
+@@||telus.com^
+@@||telus.com^
+@@||telus.com^
+@@||telus.com^
