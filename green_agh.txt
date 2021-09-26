@@ -15,6 +15,6 @@
 @@||cloudflare.com^
 @@||pcoptimum.ca^
 @@||loblaw.ca^
+@@||pushover.net^
 
-@@||tangerine.ca^
 @@||tangerine.ca^
