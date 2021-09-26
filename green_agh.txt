@@ -14,7 +14,7 @@
 @@||anveo.com^
 @@||cloudflare.com^
 @@||pcoptimum.ca^
+@@||loblaw.ca^
 
-@@||tangerine.ca^
 @@||tangerine.ca^
 @@||tangerine.ca^
