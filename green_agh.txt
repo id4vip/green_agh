@@ -11,9 +11,9 @@
 @@||pcfinancial.ca^
 @@||ctfs.com^
 @@||connectfirstcu.com^
+@@||anveo.com^
+@@||cloudflare.com^
 
-@@||tangerine.ca^
-@@||tangerine.ca^
 @@||tangerine.ca^
 @@||tangerine.ca^
 @@||tangerine.ca^
