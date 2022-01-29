@@ -20,8 +20,8 @@
 @@||skyscanner.ca^
 @@||3cx.us^
 @@||graph.facebook.com^
+@@||100nu.tk^
 
-@@||telus.com^
 @@||telus.com^
 @@||telus.com^
 @@||telus.com^
