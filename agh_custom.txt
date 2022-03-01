@@ -418,7 +418,8 @@
 @@||3cx.us^
 @@||graph.facebook.com^
 @@||100nu.tk^
+@@||telus-wifi-03.cloudcheck.net^
+@@||urlchecker.telus-prod.hosted.cujo.io^
 
-@@||telus.com^
-@@||telus.com^
+
 @@||telus.com^
