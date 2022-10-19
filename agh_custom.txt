@@ -420,6 +420,8 @@
 @@||100nu.tk^
 @@||telus-wifi-03.cloudcheck.net^
 @@||urlchecker.telus-prod.hosted.cujo.io^
-
+@@||yahoo.com^
+@@||mail.yahoo.com^
+@@||login.yahoo.com^
 
 @@||telus.com^
