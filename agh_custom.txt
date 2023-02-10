@@ -423,5 +423,4 @@
 @@||yahoo.com^
 @@||mail.yahoo.com^
 @@||login.yahoo.com^
-
-@@||telus.com^
+@@||5551555.xyz^
