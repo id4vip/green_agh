@@ -427,3 +427,7 @@
 @@||schoolmessenger.com^
 @@||epicgames.com^
 @@||3cx.cloud^
+@@||telus.sc.omtrdc.net^
+@@||sdk.iad-03.braze.com^
+
+
