@@ -431,6 +431,8 @@
 @@||sdk.iad-03.braze.com^
 @@||logs.netflix.com^
 @@||teams.events.data.microsoft.com^
+@@||us-mobile.events.data.microsoft.com^
+
 
 
 
