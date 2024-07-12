@@ -433,6 +433,8 @@
 @@||teams.events.data.microsoft.com^
 @@||us-mobile.events.data.microsoft.com^
 @@||self.events.data.microsoft.com^
+@@||mobile.events.data.microsoft.com^
+
 
 
 
