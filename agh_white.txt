@@ -435,7 +435,7 @@
 @@||self.events.data.microsoft.com^
 @@||mobile.events.data.microsoft.com^
 @@||disney.my.sentry.io^
-@@||disneyadvertising.com^
+@@||us-west-2.ads.digital.disneyadvertising.com^
 
 
 
