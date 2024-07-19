@@ -426,7 +426,7 @@
 @@||5551555.xyz^
 @@||schoolmessenger.com^
 @@||epicgames.com^
-@@||3cx.cloud^
+@@||1691.3cx.cloud^
 @@||telus.sc.omtrdc.net^
 @@||sdk.iad-03.braze.com^
 @@||logs.netflix.com^
@@ -436,6 +436,7 @@
 @@||mobile.events.data.microsoft.com^
 @@||disney.my.sentry.io^
 @@||us-west-2.ads.digital.disneyadvertising.com^
-
-
-
+@@||app.bugsnag.com^
+@@||notify.bugsnag.com^
+@@||sessions.bugsnag.com^
+@@||api.bugsnag.com^
