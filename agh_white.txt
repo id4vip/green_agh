@@ -435,3 +435,5 @@
 @@||notify.bugsnag.com^
 @@||sessions.bugsnag.com^
 @@||api.bugsnag.com^
+@@||firebase-settings.crashlytics.com^
+@@||app-measurement.com^
