@@ -437,3 +437,4 @@
 @@||api.bugsnag.com^
 @@||firebase-settings.crashlytics.com^
 @@||app-measurement.com^
+@@||telus.data.adobedc.net^
