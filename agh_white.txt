@@ -217,6 +217,7 @@
 @@||dl.delivery.mp.microsoft.com^$important
 @@||1drv.com^$important
 @@||aspnetcdn.com^$important
+@@||consumer.entitlement.skype.com^
 # Netflix
 @@||api-global.netflix.com^$important
 @@||ichnaea.netflix.com^$important
