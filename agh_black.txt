@@ -1,4 +1,13 @@
 ||whoops.wishyoudidntclickthis.com^
 ###############################
 #0.0.0.0 example.com
-
+0.0.0.0 wpad.go.johnsoncontrols.com
+0.0.0.0 wpad.jci.com
+0.0.0.0 wpad.jcplc.net
+0.0.0.0 wpad.cfsad.com
+0.0.0.0 wpad.tycofs.com
+0.0.0.0 wpad.sg.sgna.simplexgrinnell.net
+0.0.0.0 wpad.lat.tyc.local
+0.0.0.0 wpad.tyco.com
+0.0.0.0 wpad.americas.tsp.ad
+0.0.0.0 wpad.emea.tsp.ad
