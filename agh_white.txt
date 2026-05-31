@@ -443,3 +443,4 @@
 @@||telus.data.adobedc.net^
 @@||mobile.pipe.aria.microsoft.com^
 @@||settings-win.data.microsoft.com^
+@@||sdkconfig.ad.xiaomi.com^
