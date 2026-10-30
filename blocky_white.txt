@@ -441,3 +441,6 @@ api.bugsnag.com
 firebase-settings.crashlytics.com
 app-measurement.com
 telus.data.adobedc.net
+mobile.pipe.aria.microsoft.com
+settings-win.data.microsoft.com
+sdkconfig.ad.xiaomi.com
